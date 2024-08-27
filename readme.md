@@ -18,11 +18,11 @@ Search with loot(uint256 id) to try to loot a specific pxL. Each pxL has a uniqu
 
 ---
 
-##### What is this?
+#### What is this?
 
 pixeLoot is a small experiment to write an NFT project that is self contained on the blockchain. It was inspired by Loot (for Adventurers) and the other related projects that sprang up around the same time.
 
-##### Why?
+#### Why?
 
 One major weakness with most image-based NFTs is that the on-chain data is only a link to an image that has to be hosted somewhere, by someone, going into the future. That image data can be modified - I've seen many point at unsecured URLs and not include any hash of the expected data - or eventually just lost. This negates much of the decentralization and persistence that makes NFTs an interesting solution in the first place, not to mention being a security risk. I asked myself if it were possible to include that image data in the NFT itself.
 
